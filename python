@@ -4,3 +4,9 @@ def sum():
   c=a+b
   return c
 print(c)
+def sub():
+x=10
+y=5
+z=a-b
+return z
+print(z)
